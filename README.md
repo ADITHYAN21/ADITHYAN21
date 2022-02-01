@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ADITHYAN21
 - 👀 I’m interested in Python projects 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects 
+- 🌱 I’m currently Machine Learning with Python
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me - mail me on sadithyan7299@gmail.com
 
 <!---
